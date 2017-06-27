@@ -1,4 +1,4 @@
-Będąc w katalogu gdzie znajduje sie plik api.php, 
+Należy przejsc do katalogu gdzie znajduje sie plik api.php, 
 nalezy uruchomic serwer za pomoca polecenia php -S localhost:8080 api.php.
 
 Do dyspozycji mamy 4 funkcje
